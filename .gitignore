@@ -1,0 +1,12 @@
+uploads/
+*.log
+.DS_Store
+Thumbs.db
+.env
+node_modules/
+vendor/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
